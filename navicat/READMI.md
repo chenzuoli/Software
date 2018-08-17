@@ -1,0 +1,1 @@
+# navicat for all database include crack file.
